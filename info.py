@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'A2Z_movies')
 API_ID = int(environ.get('API_ID', '22844255'))
 API_HASH = environ.get('API_HASH', 'b277b6da4467f1eeb35495ac72c0754f)
-BOT_TOKEN = environ.get('BOT_TOKEN', "5892691626:AAE57v_cBwlL-9pVDLCi0Dtv9qVr9kNKGJ8")
+BOT_TOKEN = environ.get('BOT_TOKEN', "5814184043:AAFA-8o0eMSoIkyIIdA3KNorH2dID2fmsAw")
 
 #Port
 PORT = environ.get("PORT", "8080")
